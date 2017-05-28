@@ -1,6 +1,6 @@
 ## ksfdl
 
-Simple ftp downloader written in Kotlin programming language.
+Simple ftp downloader written in the Kotlin programming language.
 
 ### Build
 ```bash
@@ -10,7 +10,7 @@ This step creates the distribution packages located in the `build/distributions`
 
 ### Usage
 
-There are 2 possibilities to run the application. The file will be safed to the exection directory.
+There are 2 possibilities to run the application. The file will be saved to the exection directory.
 
 **Using Gradle** 
 
